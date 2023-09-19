@@ -6,13 +6,7 @@ Para rodar este projeto, digite os seguintes comandos
 
 ``` 
 git status
-```
-``` 
 git commit
-```
-``` 
 git config
-```
-``` 
 git clone
 ``` 
