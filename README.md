@@ -4,6 +4,7 @@
 
 Para rodar este projeto, digite os seguintes comandos
 
-'''
+``` 
 git status
-'''
+``` 
+
