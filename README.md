@@ -5,12 +5,12 @@
 Para clonar este projeto, digite 
 
 ``` 
-git clone 
+git clone https://github.com/gBonasorte/saveprojetojava.git
 ```
 Para atualizar o repositório local com as alterações do repositório remoto, digite
 
 ```
-git pull
+git pull https://github.com/gBonasorte/saveprojetojava.git
 ```
 Para adicionar todas as modificações realizadas de uma só vez, digite
 ```
