@@ -2,14 +2,17 @@
 
 > Status do projeto: Em desenvolvimeto
 
-Para rodar este projeto, digite os seguintes comandos
+Para clonar este projeto, digite 
 
 ``` 
-git status
+git clone 
 ```
+Para atualizar o repositório local com as alterações do repositório remoto, digite
+
 ```
-git commit
+git pull
 ```
+Para adicionar todas as modificações realizadas de uma só vez, digite
 ```
-git config
+git add .
 ``` 
